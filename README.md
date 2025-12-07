@@ -11,5 +11,7 @@ That leaves If you with the obligation of soldering one ESP32-Wroom module as we
 
 ![WhatsApp Image 2025-03-27 at 23 40 16](https://github.com/user-attachments/assets/7a99b436-b69c-4e43-8ad3-7864b1749b1f)
 
+![Pinout](https://github.com/cad435/MiniESP32/blob/main/Pinout.png)
+
 
 Licensed under Open Source Hardware Association license https://www.oshwa.org/definition/
